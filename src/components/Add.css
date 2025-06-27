@@ -1,0 +1,4 @@
+.floating-label-custom label {
+  color: #000000 !important; /* Bright blue, change as needed */
+  font-weight: bold;
+}
